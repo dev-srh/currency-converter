@@ -2,6 +2,14 @@
 
 A sleek and modern **Currency Converter Web App** that allows users to convert between different currencies in real-time using live exchange rates.
 
+---
+
+## 🌐 Live Demo
+
+👉 **Try it out here:** [Currency Converter App](https://dev-srh.github.io/currency-converter/)
+
+---
+
 ![Currency Converter Preview](./preview.png)
 
 ---
