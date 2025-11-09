@@ -18,18 +18,12 @@ A sleek and modern **Currency Converter Web App** that allows users to convert b
 
 ## 🧩 Tech Stack
 
-- **HTML5** — structure and layout  
-- **CSS3** — modern, clean styling  
-- **JavaScript (Vanilla JS)** — dynamic functionality  
-- **Exchange Rate API** — live currency data  
-
----
-
-## 📸 Screenshot
-
-| Example Conversion |
-|:-------------------:|
-| <img src="./preview.png" width="400px" alt="Currency Converter Screenshot" /> |
+| Technology | Purpose |
+|-------------|----------|
+| **React.js** | Frontend UI framework |
+| **CSS3 / Styled Components** | Custom and responsive styling |
+| **JavaScript (ES6+)** | Logic and interactivity |
+| **Exchange Rate API** | Live currency data source |
 
 ---
 
